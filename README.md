@@ -125,7 +125,7 @@ lost-item-finder/
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 - [ ] Save memory data to a file so it persists between sessions
 - [ ] Add more locations (e.g. bathroom, garage, garden)
